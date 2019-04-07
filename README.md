@@ -12,6 +12,6 @@ We used the City of Los Angeles's API to gather crime data, and displayed it usi
 - filter crimes older than 5 years
 
 **Authors:** 
-Jenny Chau
-Bhavani Panda
+Jenny Chau, 
+Bhavani Panda, 
 Cynthia Wang
